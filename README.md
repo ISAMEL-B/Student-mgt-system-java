@@ -103,19 +103,10 @@ Download `itextpdf-5.5.14.jar` from [here](https://mvnrepository.com/artifact/co
 
 * **Byaruhanga Isamel**
   BSc Software Engineering, MUST – Uganda
-  📧 [byaruhanga.isamel@example.com](mailto:byaruhanga.isamel@example.com)
-
----
-
-## 📜 License
-
-MIT License — free to use and modify for education and personal use. See [LICENSE](LICENSE).
-
----
+  📧 [byaruhanga.isamel@example.com](mailto:byaruhangaisamelk@gmail.com)
 
 ## ✨ Next Improvements
 
 * Export to CSV/Excel
 * User authentication and roles
 * Graphical charts for grade distribution
-* Backup & restore database
