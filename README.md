@@ -1,6 +1,4 @@
-
-```markdown
-# 📚 Rain Ville Secondary School – Student Management System  
+# 📚 Brain Ville Secondary School – Student Management System  
 
 **Format** Drag and drop
 **Package**: `bse`  
@@ -9,16 +7,12 @@
 **GUI**: Java Swing + JDateChooser  
 **PDF Reports**: iText 5  
 
----
-
 ## 🧩 Overview  
 A comprehensive desktop app for managing student and teacher data at Rain Ville Secondary School, featuring:
 - CRUD operations for students and teachers
 - Recording student marks per subject
 - Generating PDF reports (students, marks, gender stats)
 - GUI date input via JDateChooser
-
----
 
 ## 💻 Features
 
@@ -39,8 +33,6 @@ A comprehensive desktop app for managing student and teacher data at Rain Ville 
 - Date selection powered by JDateChooser  
 - File dialogs for saving/printing reports
 
----
-
 ## 🛠️ Technologies
 
 - **Java** 8+  
@@ -50,23 +42,18 @@ A comprehensive desktop app for managing student and teacher data at Rain Ville 
 - **JDBC** & **MySQL Connector/J** for DB  
 - **Swing** for GUI
 
-````
-
----
-
 ## ⚙️ Setup Instructions
 
 1. **Clone the repo**  
-   ```bash
    git clone https://github.com/ISAMEL-B/Student-mgt-system-java.git
-````
 
-2. **Configure `pom.xml`**
+2. **Configure**
    Maven dependencies:
-
-Download `mysql-connector-java-8.0.33.jar` from [here](https://dev.mysql.com/downloads/connector/j/) and place it in the `lib` folder.
-
 Download `itextpdf-5.5.14.jar` from [here](https://mvnrepository.com/artifact/com.itextpdf/itextpdf/5.5.14) and place it in the `lib` folder.
+
+
+also
+Download `mysql-connector-java-8.0.33.jar` from [here](https://dev.mysql.com/downloads/connector/j/) and place it in the `lib` folder.
 
 3. **Create MySQL schema `mydb`**
 
@@ -74,7 +61,7 @@ Download `itextpdf-5.5.14.jar` from [here](https://mvnrepository.com/artifact/co
 
 4. **Import project into NetBeans**
 
-   * `File → Open Project → rainville-sms`
+   * `File → Open Project → bse (package)`
 
 5. **Run application**
 
